@@ -1,10 +1,10 @@
-//Meu primeiro código em C++.
+//Meu primeiro cÃ³digo em C++.
 #include <iostream>
 using namespace std;
 
 int main(int argc, char* agrs[])
 {
-	cout << "Legal" << endl;
+	cout << "HelloWorld" << endl;
 
 	return 0;
 }
